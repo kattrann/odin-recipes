@@ -4,7 +4,58 @@ body  {
 }
 
 h1 {
-    font-size: 22px;
+    font-size: 32px;
     text-align: center;
+    font-weight: bold;
 
 }
+
+body {
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.oyakodon-title{
+    color: rgb(233, 208, 26);
+}
+
+.onigiri-title{
+    color: rgb(110, 110, 235);
+}
+
+.brownie-title{
+    color: rgb(93, 38, 21);
+}
+
+.description{
+    text-align: center;
+}
+
+.ingredients-brownie, .instr-brownie {
+    background-color: rgb(93, 38, 21);
+    color: white;
+    display: inline;
+    font-size: 24px;
+}
+
+.ingredients-oyakodon, .instr-oyakodon {
+    background-color: rgb(233,208,26);
+    color: white;
+    display: inline;
+    font-size: 24px;
+
+}
+
+.ingredients-onigiri, .instr-onigiri {
+    background-color: rgb(110, 110 , 235);
+    color: white;
+    display: inline;
+    font-size: 24px;
+
+}
+
+
