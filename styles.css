@@ -19,16 +19,29 @@ img {
     margin: 0 auto;
 }
 
+
+
 .oyakodon-title{
-    color: rgb(233, 208, 26);
+    color: white;
+    background-color: rgb(233, 208, 26);
+    padding: 10px;
+    margin: 20px 600px;
 }
 
 .onigiri-title{
-    color: rgb(110, 110, 235);
+    color: white;
+    background-color: rgb(110, 110, 235);
+    padding: 10px;
+    margin: 20px 600px;
+
 }
 
 .brownie-title{
-    color: rgb(93, 38, 21);
+
+    color: white;
+    background-color: rgb(93, 38, 21);
+    padding: 10px;
+    margin: 20px 500px;
 }
 
 .description{
@@ -39,6 +52,7 @@ img {
     background-color: rgb(93, 38, 21);
     color: white;
     display: inline;
+    padding: 10px;
     font-size: 24px;
 }
 
@@ -46,6 +60,7 @@ img {
     background-color: rgb(233,208,26);
     color: white;
     display: inline;
+    padding: 10px;
     font-size: 24px;
 
 }
@@ -54,8 +69,28 @@ img {
     background-color: rgb(110, 110 , 235);
     color: white;
     display: inline;
+    padding: 10px;
     font-size: 24px;
 
 }
+
+li.index {
+    display: inline;
+    margin: 0 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+div.index{
+    text-align: center;
+    margin: auto;
+}
+
+.oya-all {
+    
+
+}
+
+
 
 
